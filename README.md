@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tomar18_sujeet" target="blank"><img src="https://img.shields.io/twitter/follow/tomar18_sujeet?logo=twitter&style=for-the-badge" alt="tomar18_sujeet" /></a> </p>
 
-- 🔭 I’m currently working on **Text Summarizer**
+- 🔭 I’m currently working on **Minor Project**
 
 - 🌱 I’m currently learning **DSA**
 
