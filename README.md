@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sujeet Tomar</h1>
-<h3 align="center">A passionate Coder From India</h3>
 
 <p align="left"> <a href="https://twitter.com/tomar18_sujeet" target="blank"><img src="https://img.shields.io/twitter/follow/tomar18_sujeet?logo=twitter&style=for-the-badge" alt="tomar18_sujeet" /></a> </p>
 
